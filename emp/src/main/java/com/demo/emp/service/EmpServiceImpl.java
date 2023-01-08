@@ -53,7 +53,6 @@ public class EmpServiceImpl implements EmpService {
         }
 
     }
-
     @Override
     public Emp getEmpByName(String name) {
 
